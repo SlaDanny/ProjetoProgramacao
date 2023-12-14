@@ -13,7 +13,7 @@ void main()
     printf("\nRegistar e consultar os dados das avalia\x87\x228es");
     printf("\nEstatísticas");
     printf("\nGuardar e ler de ficheiros binários os dados da aplicação");
-    printf("\nopcao -> ");
+    printf("\nOpcao -> ");
 
 
     Estatisticas: total_ects();
