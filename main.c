@@ -4,7 +4,7 @@ void menuPrincipal();
 
 void main()
 {
-    aaaaaaaaaaaaaaaaaaaaaaa
+    teste
 }
 
 void menuPrincipal()
