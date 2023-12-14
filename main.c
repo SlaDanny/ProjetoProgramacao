@@ -4,7 +4,7 @@ void menuPrincipal();
 
 void main()
 {
-    teste
+    DORITO
 }
 
 void menuPrincipal()
